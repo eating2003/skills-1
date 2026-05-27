@@ -1,0 +1,1 @@
+使用 military-fitness-calculator skill，產出一個完整的體能測驗計算器網頁工具，根據以上成績，判定是否合格、計算與標準的差距，並透過 Claude API 提供個人化一週訓練建議，最終輸出可部署於 GitHub Pages 的單一 index.html 檔。
